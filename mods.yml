@@ -107,7 +107,7 @@
     minor: 1
     patch: 4
   enabled: true
-  icon: C:\Users\maxim\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\mattymatty-AsyncLoggers\2.1.4\icon.png
+  icon: C:\Users\maxim\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\PotuzhnyyPack\BepInEx\plugins\mattymatty-AsyncLoggers\icon.png
 - manifestVersion: 1
   name: Hamunii-DetourContext_Dispose_Fix
   authorName: Hamunii
@@ -3191,3 +3191,50 @@
     patch: 0
   enabled: true
   icon: C:\Users\maxim\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\PotuzhnyyPack\BepInEx\plugins\notnotnotswipez-MoreCompany\icon.png
+- manifestVersion: 1
+  name: Piggy-LC_Office
+  authorName: Piggy
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Piggy/LC_Office/
+  displayName: LC_Office
+  description: Adds new office-themed interior, and new enemy!
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1741457004904
+  loaders: []
+  dependencies:
+    - Evaisa-LethalLib-0.16.1
+    - xilophor-LethalNetworkAPI-3.2.0
+    - IAmBatby-LethalLevelLoader-1.3.10
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 2
+    patch: 7
+  enabled: true
+  icon: C:\Users\maxim\AppData\Roaming\r2modmanPlus-local\LethalCompany\profiles\PotuzhnyyPack\BepInEx\plugins\Piggy-LC_Office\icon.png
+- manifestVersion: 1
+  name: Kittenji-Football
+  authorName: Kittenji
+  websiteUrl: https://thunderstore.io/c/lethal-company/p/Kittenji/Football/
+  displayName: Football
+  description: Adds Football from mazingDOG Comics as an entity, she wants to play
+    Simon Says... just do as she says.
+  gameVersion: "0"
+  networkMode: both
+  packageType: other
+  installMode: managed
+  installedAtTime: 1741457081485
+  loaders: []
+  dependencies:
+    - BepInEx-BepInExPack-5.4.2100
+  incompatibilities: []
+  optionalDependencies: []
+  versionNumber:
+    major: 1
+    minor: 1
+    patch: 11
+  enabled: true
+  icon: C:\Users\maxim\AppData\Roaming\r2modmanPlus-local\LethalCompany\cache\Kittenji-Football\1.1.11\icon.png
